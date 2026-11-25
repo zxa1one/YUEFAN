@@ -1,0 +1,26 @@
+__pycache__/
+*.sqlite3
+*.sqlite3-*
+.env
+
+.amap_key
+.tencent_credentials.json
+.tencent_credentials.json.tmp
+
+verified_merchants.json
+
+# Local secrets, databases, exports and backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+*.zip
+.DS_Store
+.venv/
+venv/
+backups/

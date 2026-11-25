@@ -1,0 +1,24 @@
+{
+  "amap:替换为高德POI编号": {
+    "name": "填写实际餐厅名称",
+    "address": "填写高德返回的实际地址",
+    "meituan": {
+      "url": "填写该分店已核实的团购链接",
+      "expires_at": "填写带时区的真实有效截止时间"
+    },
+    "douyin": {
+      "url": "填写该分店已核实的团购链接",
+      "expires_at": "填写带时区的真实有效截止时间"
+    },
+    "popularity": {
+      "source": "同一获授权平台名称及统计口径",
+      "as_of": "实际统计时间（ISO8601，带时区）",
+      "counts": {
+        "comments": null,
+        "favorites": null,
+        "checkins": null,
+        "deals": null
+      }
+    }
+  }
+}
